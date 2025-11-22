@@ -6,7 +6,7 @@ and reach the finish without touching anything dangerous, otherwise, the game re
 
 ---
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 - Start with a **cinematic intro** that showcases the maze and the finish line.
 - Navigate your cube-shaped player through the paths.
 - Avoid various traps and dynamic obstacles.
@@ -18,11 +18,11 @@ Maze
 
 ---
 
-## 🧱 Features
-### 🎬 Cinematic Introduction
+## Features
+### Cinematic Introduction
 A short camera animation introduces the map and gives players a clear view of the goal and obstacles.
 
-### ⚠️ Dynamic Hazards
+### Dynamic Hazards
 The maze contains several types of traps:
 - **Spinning bars**
 - **Falling blocks**
@@ -35,7 +35,7 @@ d<img width="687" height="443" alt="image" src="https://github.com/user-attachme
 ### 🕹 Simple Controls
 Move the player through the maze while keeping track of timing and movement patterns.
 
-### 🔁 Restart Logic
+### Restart Logic
 If the player touches:
 - a wall,
 - a spinning arm,
@@ -47,7 +47,7 @@ If the player touches:
 
 ---
 
-## 🛠 Technical Notes
+## Technical Notes
 - Developed in Unity 6.
 - Uses **Cinemachine** for the player camera.
 - Includes a **Legacy Animation** intro for the opening cinematic.
@@ -55,7 +55,7 @@ If the player touches:
 
 ---
 
-## 🚀 Goal of the Project
+## Goal of the Project
 Obstacle Dodge is designed as a small project to learn:
 - Unity basics
 - Camera control with Cinemachine
