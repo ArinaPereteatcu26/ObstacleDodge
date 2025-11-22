@@ -13,6 +13,9 @@ and reach the finish without touching anything dangerous, otherwise, the game re
 - Reach the finish line to win.
 - Touching any hazard instantly triggers a **full restart**.
 
+Maze
+<img width="829" height="523" alt="image" src="https://github.com/user-attachments/assets/3598beb7-fce9-43ff-be39-a42a170c640d" />
+
 ---
 
 ## 🧱 Features
@@ -27,6 +30,7 @@ The maze contains several types of traps:
 - **Rotating obstacles**
   
 Each hazard requires timing and awareness to avoid.
+d<img width="687" height="443" alt="image" src="https://github.com/user-attachments/assets/b38c73d1-9fdc-4a65-85c5-6c2734f722a1" />
 
 ### 🕹 Simple Controls
 Move the player through the maze while keeping track of timing and movement patterns.
@@ -39,6 +43,7 @@ If the player touches:
 - a projectile,
 
 …the game instantly restarts to maintain a fast gameplay loop.
+<img width="689" height="414" alt="image" src="https://github.com/user-attachments/assets/166e1ae5-d05c-4114-bc36-d136a00010f4" />
 
 ---
 
