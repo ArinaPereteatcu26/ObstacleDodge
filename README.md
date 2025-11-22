@@ -45,7 +45,6 @@ If the player touches:
 
 …the game instantly restarts to maintain a fast gameplay loop.
 <img width="689" height="414" alt="image" src="https://github.com/user-attachments/assets/166e1ae5-d05c-4114-bc36-d136a00010f4" />
-<img width="659" height="363" alt="image" src="https://github.com/user-attachments/assets/ec57b119-0731-45bc-8e97-d551ea068975" />
 
 ---
 
@@ -64,3 +63,7 @@ Obstacle Dodge is designed as a small project to learn:
 - Trigger-based game logic
 - Simple animation sequences
 - Level design with hazards
+
+  If you win, there is a success message and an option to replay the awesome game you ever played in your life :)
+  <img width="659" height="363" alt="image" src="https://github.com/user-attachments/assets/3249e62d-5894-4f7b-81d2-5aa36fed4cf6" />
+
